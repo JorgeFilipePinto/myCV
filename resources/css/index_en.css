@@ -1,0 +1,160 @@
+
+#photo {
+    height: 250px;
+    width: 250px;
+    border-radius: 100px;
+    padding: 20px;
+}
+
+.banner {
+    background-image: url("../images/dev.webp");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    color: white;
+    align-items: center;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(255, 0, 0);
+}
+
+.buttons {
+    padding: 20px;
+    display: flex;
+}
+
+.portuguese-icon {
+    height: 30px;
+    width: 50px;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.facebook {
+    display: flex;
+    margin-left: 400px;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    border-radius: 7px;
+    height: 30px;
+    width: 150px;
+    background: linear-gradient(45deg, red, orange);
+}
+
+.facebook-icon {
+    height: 20px;
+    width: 20px;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.github {
+    display: flex;
+    margin-left: 10px;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    border-radius: 7px;
+    height: 30px;
+    width: 150px;
+    background: linear-gradient(45deg, red, orange);
+}
+
+.github-icon {
+    height: 20px;
+    width: 20px;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.linkedin {
+    display: flex;
+    margin-left: 10px;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    border-radius: 7px;
+    height: 30px;
+    width: 150px;
+    background: linear-gradient(45deg, red, orange);
+}
+
+.linkedin-icon {
+    height: 20px;
+    width: 20px;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.instagram {
+    display: flex;
+    margin-left: 10px;
+    align-items: center;
+    text-decoration: none;
+    color:white;
+    border-radius: 7px;
+    height: 30px;
+    width: 150px;
+    background: linear-gradient(45deg, red, orange);
+}
+
+.instagram-icon {
+    height: 20;
+    width: 20px;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.codecademy {
+    display: flex;
+    margin-left: 10px;
+    align-items: center;
+    text-decoration: none;
+    color:white;
+    border-radius: 7px;
+    height: 30px;
+    width: 150px;
+    background: linear-gradient(45deg, red, orange);
+}
+
+.codecademy-icon {
+    height: 20;
+    width: 20px;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(-45deg, #35577D, #141E30);
+}
+
+
+h1 {
+    color: azure;
+}
+
+.about-me {
+    padding-left: 500px;
+    width: 800px;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-family: Helvetica;
+}
+
